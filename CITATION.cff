@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated master's thesis."
+title: "Code for: Do Investor Attention and News Sentiment Have Distinct Conditional Associations with Stock Returns?"
+type: software
+authors:
+  - family-names: Tahara
+    given-names: Shintaro
+version: 0.1.0
+date-released: 2026-09-02
+license: MIT

@@ -1,0 +1,8 @@
+# All paths are relative to the project root unless explicitly overridden.
+input_panel = "data/input/panel.csv"
+input_expression_events = "data/input/expression_events.csv"
+input_vocabulary = "data/input/candidate_vocabulary.csv"
+output_directory = "outputs"
+forecast_window_dates = 504
+minimum_beta_observations = 60
+
